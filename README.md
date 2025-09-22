@@ -17,3 +17,9 @@ Expo CLI를 사용하여 프로젝트를 생성하고, 기본적인 View, Text, 
    ```bash
    git clone https://github.com/사용자명/react-native-expo-demo.git
    cd react-native-expo-demo
+
+기술 스택
+React Native (Expo)
+JavaScript (ES6+)
+Expo CLI
+npm
